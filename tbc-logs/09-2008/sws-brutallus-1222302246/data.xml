@@ -1,0 +1,15 @@
+  <raid dpstime="100" start="1222273446109" dps="0" comment="Brutallus try 1" lg="2801220" dmg="0" dir="sws-brutallus-1222302246">
+    <player dmgout="0" heal="0" name="Jesi" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="mag" decurse="0" death="0" />
+    <player dmgout="0" heal="0" name="Javan" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="sha" decurse="0" death="0" />
+    <player dmgout="0" heal="0" name="Naomil" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="pri" decurse="0" death="0" />
+    <player dmgout="0" heal="0" name="Dopplewylan" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="wrl" decurse="0" death="0" />
+    <player dmgout="0" heal="0" name="Wylan" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="wrl" decurse="0" death="0" />
+    <player dmgout="0" heal="0" name="Hadessa" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="pri" decurse="0" death="0" />
+    <player dmgout="0" heal="0" name="Fearsalot" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="wrl" decurse="0" death="0" />
+    <player dmgout="0" heal="0" name="Jamor" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="war" decurse="0" death="0" />
+    <player dmgout="0" heal="0" name="Gwai" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="sha" decurse="0" death="0" />
+    <player dmgout="0" heal="0" name="Deathmcsneak" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="rog" decurse="0" death="0" />
+    <player dmgout="0" heal="0" name="Flargonicus" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="sha" decurse="0" death="0" />
+    <player dmgout="0" heal="0" name="Mizuiro" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="rog" decurse="0" death="0" />
+    <player dmgout="0" heal="0" name="Tyneko" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="drd" decurse="0" death="0" />
+  </raid>
