@@ -1,0 +1,197 @@
+body {
+    background-color:black;
+    font-family: Verdana, Arial; 
+    font-size:11px;
+    color: #efefef; 
+    padding:0px;
+    margin:0px;
+}
+
+div#body-content {margin:20px;}
+
+th {
+    text-align:center;
+    font-size:11px;
+    font-weight: bold; 
+    background-color: #505050; 
+    white-space: nowrap;
+    padding-left:12px;
+    padding-right:6px;
+    padding-top:4px;
+    padding-bottom:4px;
+    border-top : 1px solid #ffffff;
+    border-bottom : 1px solid #ffffff;
+}
+
+tr.odd {
+    background-color: #303030;
+}
+
+tr.first td {
+	padding-top:4px;
+}
+
+table {
+    border-collapse:collapse;
+    border : 1px solid #ffffff;
+}
+
+table td {
+    padding-top:2px;
+    padding-bottom:2px;
+    border: none;
+    padding-left:12px;
+    padding-right:6px;
+    text-align:right;
+    font-size:11px;
+    white-space:nowrap;
+}
+
+table.n td, td.n, th.n {
+    text-align:left;
+}
+
+h1 {display:block;font-size:18px;padding:12px}
+img {vertical-align:middle}
+
+table.struct {border:none}
+table.struct td.struct {padding:0px;text-align:center;padding-right:4px;padding-left:4px}
+table.struct td.help {padding:0px;vertical-align:top;padding-right:4px}
+
+.o {color:#6E6;}
+.i {color:#F66;}
+.h {color:#99F;}
+.w {color:#efefef;}
+
+/* -----------  */
+
+table.head {width:100%;border:none;border-top:1px solid white;border-bottom:1px solid white}
+table.head img {vertical-align:middle}
+table.head td {text-align:center;padding:6px;color:white}
+table.head td.sum {background-color: #505050;font-weight:bold;font-size:13px}
+table.head td.link {background-color: #303030}
+table.head td.link a {color:#efefef;}
+table.head td.actor {background-color: #303030}
+table.head td.class {padding:0px;padding-top:8px;}
+table.head td.class table {width:100%;border:none;}
+table.head td.class table td {padding:2px 4px 2px 4px;}
+table.head td.class table td.fill {width:40%;border-bottom:1px solid gray;}
+table.head td.class table td.tabon {border:1px solid gray;border-bottom:1px solid #303030;background-color: #303030}
+table.head td.class table td.taboff {border:none;border-bottom:1px solid gray;}
+
+/* -----------  */
+
+
+a:link, a:visited {
+    text-decoration:none;
+}
+
+a:hover, a:active{
+    text-decoration:underline;
+}
+
+acronym {
+    font-family:inherit;
+    font-size:inherit;
+    color:inherit;
+    cursor:pointer;
+}
+
+acronym:hover {
+    font-family:inherit;
+    font-size:inherit;
+    color:inherit;
+    text-decoration:underline;
+}
+
+.c-mag {color:#69ccf0;font-weight:bold}
+.c-pri {color:#FFFFFF;font-weight:bold}
+.c-rog {color:#fff569;font-weight:bold}
+.c-war {color:#c79c6e;font-weight:bold}
+.c-hnt {color:#abd473;font-weight:bold}
+.c-wrl {color:#9482ca;font-weight:bold}
+.c-pal {color:#f58cba;font-weight:bold}
+.c-drd {color:#ff7d0a;font-weight:bold}
+.c-sha {color:#00dbba;font-weight:bold}
+.c-mob {color:#CCCCCC;font-weight:bold}
+.c-pet {color:#CCCCCC;font-weight:bold}
+
+.n-hit  {text-align:right;color:#FFCCFF}
+.n-dot  {text-align:right;color:#FFFFCC}
+.n-crit {text-align:right;color:#CCFFFF}
+
+.gray {color:#999999}
+.white {color:#FFFFFF}
+
+/* ------ */
+
+td.perc{padding:0px;padding-left:4px;text-align:left}
+table.perc{border:none;margin:0px;}
+tr.first table.perc td{border:none;padding:0px;padding-top:1px;padding-bottom:0px;}
+table.perc td{border:none;padding:0px;padding-top:1px;padding-bottom:1px;}
+td.perc-out {background-color:#339933;width:1px;}
+td.perc-in {background-color:#993333;width:1px;}
+td.perc-heal {background-color:#333399;width:1px;}
+
+
+body div#toolTip { 
+	position:absolute;
+	z-index:1000;
+	max-width:400px;
+	background:#303030;
+	border:2px solid yellow;
+	color:#efefef;
+	text-align:left;
+	padding:4px;
+	visibility:hidden;
+	opacity:1;
+}
+
+div#toolTip .ttsmall {color:#BBB;}
+div#toolTip .ttnormal {color:yellow;}
+
+iframe.counter {
+	width:0;
+	height:0;
+	border:none;
+}
+
+/* tables for tabs */
+
+table.tabs {
+	border : none;
+}
+table.tabs td {
+	text-align: center;
+    padding:6px 12px;
+	white-space: nowrap;
+}
+table.tabs td a {
+	color:white;
+	font-size:18px;
+}
+table.tabs td.fill {
+	border: none;
+	border-bottom: 2px solid white;
+}
+table.tabs td.tabon {
+	border: 2px solid white;
+	border-bottom: none;
+}
+table.tabs td.tabon a {
+	color:yellow;
+	font-weight:bold;
+}
+table.tabs td.taboff {
+	background-color:#444;
+	border: 1px solid gray;
+	border-bottom: 2px solid white;
+}
+
+iframe.custom-top {
+	width:0;
+	height:0;
+	border:none;
+	margin:0px;
+	padding:0px;
+}

@@ -1,0 +1,27 @@
+  <raid dpstime="100" start="1213297126281" dps="5264" comment="M'uru try 18" lg="2964360" dir="sws-muru-1213325926">
+    <player dmgout="25.5193574309542" heal="3.38011346670648" name="Wy" pres="100" dmgin="0" ovh="0" dps="1847" dpstime="89.9522134459084" classe="wrl" decurse="0" death="0" />
+    <player dmgout="21.0080705626324" heal="3.82800836070469" name="Methikal" pres="100" dmgin="0" ovh="45" dps="1719" dpstime="85.0414545122317" classe="hnt" decurse="0" death="0" />
+    <player dmgout="16.3110723197773" heal="5.69722305165721" name="Korrick" pres="100" dmgin="0" ovh="0" dps="1042" dpstime="88.2490622961275" classe="war" decurse="0" death="0" />
+    <player dmgout="15.1710428674144" heal="2.76201851298895" name="Nessala" pres="100" dmgin="0" ovh="60" dps="1086" dpstime="75.9969898383723" classe="rog" decurse="0" death="0" />
+    <player dmgout="8.97105132631757" heal="0" name="Evinald" pres="100" dmgin="0" ovh="0" dps="1384" dpstime="72.6630180736141" classe="mag" decurse="0" death="0" />
+    <player dmgout="6.73982336272161" heal="0" name="Galsta" pres="100" dmgin="0" ovh="0" dps="719" dpstime="73.7704913185876" classe="pri" decurse="0" death="0" />
+    <player dmgout="1.70254651435514" heal="3.24873096446701" name="Riggz" pres="100" dmgin="0" ovh="0" dps="308" dpstime="40.1799900510015" classe="drd" decurse="0" death="0" />
+    <player dmgout="1.60872958808986" heal="1.27799343087489" name="Zinduchi" pres="100" dmgin="0" ovh="0" dps="2076" dpstime="6.50658415483695" classe="sha" decurse="0" death="0" />
+    <player dmgout="1.59334976411195" heal="0" name="Jacck" pres="100" dmgin="0" ovh="0" dps="864" dpstime="18.6291259469338" classe="mag" decurse="0" death="0" />
+    <player dmgout="1.27344942537133" heal="0" name="Kars" pres="100" dmgin="0" ovh="0" dps="1071" dpstime="11.9936430954175" classe="sha" decurse="0" death="0" />
+    <player dmgout="0.0495999323287745" heal="1.79755150791281" name="Corynth" pres="100" dmgin="0" ovh="66" dps="159" dpstime="1.74545914930195" classe="pal" decurse="0" death="0" />
+    <player dmgout="0.0326821259530685" heal="7.45297103613019" name="Kemaro" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="mag" decurse="0" death="0" />
+    <player dmgout="0.0192247799723932" heal="0" name="Jgsack" pres="100" dmgin="0" ovh="0" dps="32" dpstime="3.70951001170046" classe="drd" decurse="0" death="0" />
+    <player dmgout="0" heal="0" name="Merrith" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="hnt" decurse="0" death="0" />
+    <player dmgout="0" heal="0" name="Mulder" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="pal" decurse="0" death="0" />
+    <player dmgout="0" heal="0" name="Warrian" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="war" decurse="0" death="0" />
+    <player dmgout="0" heal="0" name="Jamor" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="war" decurse="0" death="0" />
+    <player dmgout="0" heal="10.1343684681995" name="Khoga" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="sha" decurse="0" death="0" />
+    <player dmgout="0" heal="11.9528217378322" name="Dratini" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="sha" decurse="0" death="0" />
+    <player dmgout="0" heal="0" name="Flargon" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="pri" decurse="0" death="0" />
+    <player dmgout="0" heal="0" name="Apocc" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="rog" decurse="0" death="0" />
+    <player dmgout="0" heal="7.71275007464915" name="Cider" pres="100" dmgin="0" ovh="71" dps="0" dpstime="0" classe="pal" decurse="0" death="0" />
+    <player dmgout="0" heal="0" name="Inf" pres="100" dmgin="0" ovh="0" dps="0" dpstime="7.26938734249193" classe="wrl" decurse="0" death="0" />
+    <player dmgout="0" heal="35.0343386085399" name="Draynaz" pres="100" dmgin="0" ovh="1" dps="0" dpstime="0" classe="sha" decurse="0" death="0" />
+    <player dmgout="0" heal="5.72111077933712" name="Oxey" pres="100" dmgin="0" ovh="0" dps="0" dpstime="0" classe="drd" decurse="0" death="0" />
+  </raid>

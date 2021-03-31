@@ -1,0 +1,27 @@
+  <raid dpstime="100" start="1213122056082" dps="12916" comment="Eredar Twins try 2" lg="5560319" dir="sws-eredar-1213150856">
+    <player dmgout="11.092926989219" heal="0.352536009866354" name="Nessala" pres="100" dmgin="0" ovh="22" dps="1761" dpstime="98.2508694432892" classe="rog" decurse="0" death="0" />
+    <player dmgout="10.392852219897" heal="0.405280671408515" name="Inf" pres="100" dmgin="0" ovh="10" dps="1940" dpstime="75.8820537109709" classe="wrl" decurse="0" death="0" />
+    <player dmgout="9.61057296692188" heal="0.708077689783824" name="Methikal" pres="100" dmgin="0" ovh="2" dps="1788" dpstime="85.615655117306" classe="hnt" decurse="0" death="0" />
+    <player dmgout="8.81049945071699" heal="0.659114355080164" name="Lumy" pres="100" dmgin="0" ovh="21" dps="1336" dpstime="92.3264923738702" classe="hnt" decurse="0" death="0" />
+    <player dmgout="8.75878748386612" heal="0" name="Kemaro" pres="100" dmgin="0" ovh="0" dps="1254" dpstime="98.4367826120429" classe="mag" decurse="0" death="0" />
+    <player dmgout="8.70857925756987" heal="0.198471180472065" name="Merrith" pres="100" dmgin="0" ovh="0" dps="1466" dpstime="92.4265462774652" classe="hnt" decurse="0" death="0" />
+    <player dmgout="7.66022146756724" heal="0.592117000069809" name="Zinduchi" pres="100" dmgin="0" ovh="7" dps="1139" dpstime="95.1273386036111" classe="sha" decurse="0" death="0" />
+    <player dmgout="7.43633120721127" heal="3.62900723687783" name="Flargon" pres="100" dmgin="0" ovh="64" dps="1160" dpstime="94.4987565087571" classe="pri" decurse="0" death="0" />
+    <player dmgout="6.7696728946588" heal="0.377841812554781" name="Wy" pres="100" dmgin="0" ovh="48" dps="1093" dpstime="94.2980671729553" classe="wrl" decurse="0" death="0" />
+    <player dmgout="5.8481305580966" heal="0" name="Jacck" pres="100" dmgin="0" ovh="0" dps="913" dpstime="95.2474361625863" classe="mag" decurse="0" death="0" />
+    <player dmgout="5.01614432567679" heal="0.439700441348712" name="Korrick" pres="100" dmgin="0" ovh="24" dps="1123" dpstime="89.5129706570294" classe="war" decurse="0" death="0" />
+    <player dmgout="4.064527178022" heal="1.30698168674325" name="Jgsack" pres="100" dmgin="0" ovh="11" dps="585" dpstime="92.2314616553096" classe="drd" decurse="0" death="0" />
+    <player dmgout="3.15526538932261" heal="0.165311852811368" name="Sepiroth" pres="100" dmgin="0" ovh="83" dps="438" dpstime="96.8595264784775" classe="wrl" decurse="0" death="0" />
+    <player dmgout="2.67548861125383" heal="1.38764999263126" name="Jamor" pres="100" dmgin="0" ovh="6" dps="390" dpstime="89.6760757415006" classe="war" decurse="0" death="0" />
+    <player dmgout="0" heal="7.16280260310418" name="Mulder" pres="100" dmgin="0" ovh="61" dps="0" dpstime="33.728790477133" classe="pal" decurse="0" death="0" />
+    <player dmgout="0" heal="4.09643740837554" name="Umirion" pres="100" dmgin="0" ovh="9" dps="0" dpstime="3.77987268125503" classe="drd" decurse="0" death="0" />
+    <player dmgout="0" heal="6.10946068583573" name="Korszi" pres="100" dmgin="0" ovh="34" dps="0" dpstime="17.1156505340351" classe="pri" decurse="0" death="0" />
+    <player dmgout="0" heal="9.41017118745298" name="Khoga" pres="100" dmgin="0" ovh="34" dps="0" dpstime="18.177196235663" classe="sha" decurse="0" death="0" />
+    <player dmgout="0" heal="8.44767807140696" name="Grren" pres="100" dmgin="0" ovh="47" dps="0" dpstime="0" classe="sha" decurse="0" death="0" />
+    <player dmgout="0" heal="4.52566648309456" name="Culona" pres="100" dmgin="0" ovh="46" dps="0" dpstime="0" classe="pri" decurse="0" death="0" />
+    <player dmgout="0" heal="14.3018507170947" name="Dratini" pres="100" dmgin="0" ovh="25" dps="0" dpstime="25.0300699472721" classe="sha" decurse="0" death="0" />
+    <player dmgout="0" heal="12.3204354537204" name="Cider" pres="100" dmgin="0" ovh="47" dps="0" dpstime="0" classe="pal" decurse="0" death="0" />
+    <player dmgout="0" heal="5.57028226150493" name="Corynth" pres="100" dmgin="0" ovh="60" dps="0" dpstime="0" classe="pal" decurse="0" death="0" />
+    <player dmgout="0" heal="6.02636845248714" name="Draynaz" pres="100" dmgin="0" ovh="41" dps="0" dpstime="0" classe="sha" decurse="0" death="0" />
+    <player dmgout="0" heal="11.8067567462749" name="Gwai" pres="100" dmgin="0" ovh="40" dps="0" dpstime="59.5127626459125" classe="sha" decurse="0" death="0" />
+  </raid>
